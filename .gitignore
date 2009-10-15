@@ -1,0 +1,17 @@
+*.class
+*.log
+*.tmp
+*~
+*.obj
+*.exe
+*.idb
+*.ilk
+*.lib
+*.res
+*.dep
+*.pdb
+*.ncb
+*.suo
+*.user
+Debug\*
+Release\*
